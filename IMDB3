@@ -65,5 +65,9 @@ plt.title('Model Loss')
 plt.xlabel('Epoch')
 plt.ylabel('Loss')
 plt.legend()
-
 plt.show()
+
+Binary classification using deep neural networks on text data is a powerful approach for
+sentiment analysis. Leveraging the IMDB dataset provides a practical and widely-used
+example for learning text preprocessing, embedding representations, and training deep
+learning models for NLP tasks.
